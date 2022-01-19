@@ -2,5 +2,5 @@
 
 
 ## Basic Commands (windows)
-- kubeclt version
+- kubectl version
 - kubectl get service
